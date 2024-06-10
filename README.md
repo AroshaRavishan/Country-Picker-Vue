@@ -13,3 +13,8 @@ This project demonstrates the implementation of an international telephone input
 ## Prerequisites
 - jQuery
 - `intl-tel-input` plugin
+
+
+# Sample Image
+
+![Sample Input Field](https://github.com/AroshaRavishan/Country-Picker-Vue/raw/main/Input%20Field.png)
