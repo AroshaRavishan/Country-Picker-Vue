@@ -15,6 +15,8 @@ This project demonstrates the implementation of an international telephone input
 - `intl-tel-input` plugin
 
 
-# Sample Image
+# Preview Images
 
 ![Sample Input Field](https://github.com/AroshaRavishan/Country-Picker-Vue/raw/main/Input%20Field.png)
+
+![Sample Preview](https://github.com/AroshaRavishan/Country-Picker-Vue/raw/main/Sample%20Preview.png)
